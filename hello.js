@@ -16,6 +16,8 @@ var answer2 = num1 - num2;
 var answer3 = num1 * num2;
 var answer4 = num1 / num2;
 var answer5 = num1 % num2;
+var answer6 = -num1;
+
 
 console.log("1: " + answer1);
 
@@ -26,3 +28,13 @@ console.log("3: " + answer3);
 console.log("4: " + answer4);
 
 console.log("5: " + answer5);
+
+console.log(answer6);
+
+console.log(2 ** 3);
+
+var answer6 = (Math.pow(2,3));
+console.log(answer6);
+
+
+var answer7 = answer6;
